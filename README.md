@@ -96,7 +96,7 @@ Here, we would like to change the text into numbers and the process to learn all
             X_test = np.expand_dims(X_test,axis=-1)
 
 # Model Development
-By using the model Sequential, LSTM, dropout, SpatialDropout1D, Bidirectional and Dense, Our model development is been structured. The model can be view in `module_sentiment.py` file.
+By using the model Sequential, LSTM, dropout, SpatialDropout1D, Bidirectional and Dense, Our model development is been structured. Note that, Spatial 1D is a version of Dropout. This version performs the same function as Dropout, however, it drops entire 1D feature maps instead of individual elements. The model can be view in `module_sentiment.py` file.
 
            embedding_dim = 64
            num_feature = np.shape(X_train)[1]
