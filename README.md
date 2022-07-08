@@ -151,7 +151,7 @@ Through this section, classification report and confusion matrix is been used as
 ## Results and Discussion :pencil:
 
 # Plotting the graph 
-Although the model is overfitted, there is still a ways to improve the model which is by adding more data to the model.
+Although there is a sign of overfitting towards the end of the training. There is still a ways to improve the model which is by adding more data to the model.
 On the other hand, adding more hidden layer, dropout or increasing the number of nodes might help in preventing the model from overfitted.
 
 ![tensorboard_acc](static/tensorboard_acc.PNG)
