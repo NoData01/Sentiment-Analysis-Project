@@ -11,7 +11,7 @@
 
 # BBC-news-classification-using-NLP
 
-Sentiment analysis (or opinion mining) is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
+Text classification, also known as text categorization, is a natural language processing (NLP) task that involves categorizing text documents into predefined categories or classes based on their content. The goal is to automatically assign a label or category to each document, allowing for efficient organization and retrieval of information.
 
 ## Description 
 Text documents are essential as they are one of the richest sources of data for businesses. Text documents often contain crucial information which might shape the market trends or influence the investment flows. Therefore, companies often hire analysts to monitor the trend via articles posted online, tweets on social media platforms such as Twitter or articles from newspaper. However, some companies may wish to only focus on articles related to technologies and politics. Thus, filtering of the articles into different categories is required. 
